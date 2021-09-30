@@ -1,5 +1,5 @@
 # simongame
-Simon Game using JavaScript and jquery.
+Simon Game using JavaScript.
 
 ## How to play: 
 * Firstly, the game shows the first colour in the sequence (ex. blue). Then you have to click on the blue button.
