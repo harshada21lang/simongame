@@ -1,4 +1,4 @@
-# simongame
+# Simon Game
 Simon Game using JavaScript.
 
 ## How to play: 
